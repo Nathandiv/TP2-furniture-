@@ -8,3 +8,7 @@ body {
     background-color: var(--bgBody);
     color: var(--color);
 }
+
+.footer{
+    background-color:  #2b303671;
+}
