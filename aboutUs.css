@@ -9,18 +9,6 @@ body {
     color: var(--color);
 }
 
-.card {
-    background-color: var(--bgGray);
-    color: var(--color);
-}
-
-.btn_nathan {
-    background-color: var(--color);
-    color: var(--bgGray);
-    margin-top: 40px;
-
-}
-
 .footer{
     background-color:  #2b303671;
 }
